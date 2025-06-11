@@ -1,6 +1,4 @@
-pandas
-matplotlib
-python-dotenv
-jupyterlab
 streamlit
 requests
+pandas
+python-dotenv
